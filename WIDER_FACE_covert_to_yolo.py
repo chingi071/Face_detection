@@ -82,17 +82,17 @@ def run_convert(data_file, wider_train, yolo_path, file_info_name, write_txt):
     print('the file is processed')
 
 
-# wider_train = "WIDER_train/images"
-# yolo_path = "yolo_train/"
-# data_file = "wider_face_split/wider_face_train_bbx_gt.txt"
-# file_info_name = 'file_info_train.txt'
-# write_txt = 'cfg/train.txt'
+wider_train = "WIDER_train/images"
+yolo_path = "yolo_train/"
+data_file = "wider_face_split/wider_face_train_bbx_gt.txt"
+file_info_name = 'file_info_train.txt'
+write_txt = 'cfg/train.txt'
 
-wider_train = "WIDER_val/images"
-yolo_path = "yolo_val/"
-data_file = "wider_face_split/wider_face_val_bbx_gt.txt"
-file_info_name = 'file_info_val.txt'
-write_txt = 'cfg/val.txt'
+# wider_train = "WIDER_val/images"
+# yolo_path = "yolo_val/"
+# data_file = "wider_face_split/wider_face_val_bbx_gt.txt"
+# file_info_name = 'file_info_val.txt'
+# write_txt = 'cfg/val.txt'
 
 if not os.path.exists(yolo_path):
     os.mkdir(yolo_path)
