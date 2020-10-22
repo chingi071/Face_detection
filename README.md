@@ -10,6 +10,6 @@
 yolov4-tiny.ipynb
 
 檔案放置路徑如下
-<img width="600" height="550" src="https://github.com/chingi071/Face_detection/blob/main/README_pix/image1.png"/></div>
+<img width="400" height="550" src="https://github.com/chingi071/Face_detection/blob/main/README_pix/image1.png"/></div>
 
 詳細流程可以參考我的 Medium: https://medium.com/@chingi071/yolo-c49f70241aa7
