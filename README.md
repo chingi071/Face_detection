@@ -3,7 +3,7 @@
 
 訓練集、驗證集使用 WIDER FACE
 
-## 轉換資料集
+## 轉換資料集格式
 執行 WIDER_FACE_covert_to_yolo.py，記得修改檔案路徑
 
 ## 訓練模型
