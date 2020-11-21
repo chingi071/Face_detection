@@ -54,7 +54,7 @@ def run_convert(all_classes, train_img, train_annotation, yolo_path, write_txt):
     print('the file is processed')
 
 
-all_classes = {'without_mask': 1, 'with_mask': 0}
+all_classes = {'class_2': 2, 'class_1': 1, 'class_0': 0}
 train_img = "train/image"
 train_annotation = "train/annotation"
 yolo_path = "yolo_train/"
