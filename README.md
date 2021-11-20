@@ -6,6 +6,14 @@
 ## Data preprocessing
 執行 data_preprocessing.ipynb，其中 WIDER_FACE_covert_to_yolo.py 用於轉換資料集格式，記得修改檔案路徑
 
+## WIDER FACE small
+若要使用
+
+yolo_train: [Google-Drive](https://drive.google.com/file/d/1nW_W79ucWHNyPF1qaJ3C4wiBq_yyeJCX/view?usp=sharing)
+
+yolo_val: [Google-Drive](https://drive.google.com/file/d/1uMhxXXdI6vBRX1f0rKoQ0fssXDfIQQyR/view?usp=sharing)
+
+
 ## 訓練模型
 訓練步驟都寫在 yolov4-tiny.ipynb
 可在 Colab 上進行訓練
