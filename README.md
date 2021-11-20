@@ -7,7 +7,7 @@
 執行 data_preprocessing.ipynb，其中 WIDER_FACE_covert_to_yolo.py 用於轉換資料集格式，記得修改檔案路徑
 
 ## WIDER FACE small
-若要使用
+若要使用較少資料量的 WIDER FACE：training data 4000、validation data 1000 筆，可從下列連結中拿取
 
 yolo_train: [Google-Drive](https://drive.google.com/file/d/1nW_W79ucWHNyPF1qaJ3C4wiBq_yyeJCX/view?usp=sharing)
 
