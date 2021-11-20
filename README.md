@@ -19,6 +19,10 @@
     }
     setInterval(ConnectButton,60000);
 
+## OpenCV inference
+使用 opencv 進行 inference
+
+    $ python face_detect.py
 
 ## 檔案放置路徑如下
 <img width="400" height="550" src="https://github.com/chingi071/Face_detection/blob/main/README_pix/image1.jpg"/></div>
