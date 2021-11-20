@@ -13,10 +13,11 @@ yolo_train: [Google-Drive](https://drive.google.com/file/d/1nW_W79ucWHNyPF1qaJ3C
 
 yolo_val: [Google-Drive](https://drive.google.com/file/d/1uMhxXXdI6vBRX1f0rKoQ0fssXDfIQQyR/view?usp=sharing)
 
-
 ## 訓練模型
-訓練步驟都寫在 yolov4-tiny.ipynb
-可在 Colab 上進行訓練
+訓練步驟都寫在 yolov4-tiny.ipynb，可在 Colab 上進行訓練
+
+## Face detection model
+訓練完的模型放置在 [weights](https://github.com/chingi071/Face_detection/tree/main/cfg/weights)
 
 ## 防止 Colab 自動斷線
 在 Colab 頁面按 F12，在 Console 貼上以下 Code 後按 Enter
