@@ -1,0 +1,5 @@
+classes= 1
+train = ../Face_detection/cfg/train.txt
+valid = ../Face_detection/cfg/val.txt
+names = ../Face_detection/cfg/face.names
+backup = ../Face_detection/cfg/weights/
