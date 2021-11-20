@@ -12,6 +12,7 @@
 
 ## 防止 Colab 自動斷線
 在 Colab 頁面按 F12，在 Console 貼上以下 Code 後按 Enter
+    
     function ConnectButton(){
     console.log("Connect pushed"); 
     document.querySelector("#connect").click() 
