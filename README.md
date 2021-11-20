@@ -16,8 +16,8 @@
     function ConnectButton(){
     console.log("Connect pushed"); 
     document.querySelector("#connect").click() 
-}
-setInterval(ConnectButton,60000);
+    }
+    setInterval(ConnectButton,60000);
 
 
 ## 檔案放置路徑如下
