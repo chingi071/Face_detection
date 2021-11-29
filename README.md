@@ -9,9 +9,9 @@
 ## WIDER FACE small
 若要使用較少資料量的 WIDER FACE：training data 4000、validation data 1000 筆，可從下列連結中拿取
 
-yolo_train: [Google-Drive](https://drive.google.com/file/d/1nW_W79ucWHNyPF1qaJ3C4wiBq_yyeJCX/view?usp=sharing)
+yolo_train: [Google-Drive](https://drive.google.com/file/d/19-Bv-rNHphp9lmx_grwtVJaG2ngGt-wO/view?usp=sharing)
 
-yolo_val: [Google-Drive](https://drive.google.com/file/d/1uMhxXXdI6vBRX1f0rKoQ0fssXDfIQQyR/view?usp=sharing)
+yolo_val: [Google-Drive](https://drive.google.com/file/d/1k3RXhJDwVO6Vjfg6e6Y5lUJfOsjGcQhs/view?usp=sharing)
 
 ## 訓練模型
 訓練步驟都寫在 yolov4-tiny.ipynb，可在 Colab 上進行訓練
